@@ -1,0 +1,38 @@
+section {
+    color: #a31111;
+    width: 1920px;
+    height: 850px;
+
+
+}
+
+.head-titel {
+    width: 708px;
+    color: #ac6e6e;
+    font-size: 100px;
+    font-weight: 800;
+    margin: 0;
+}
+
+.graph {
+    color: rgb(219, 119, 157);
+    width: 650px;
+    font-size: 40px;
+    margin: 2px;
+}
+
+button {
+
+    background-color: #e096a6;
+    font-size: 40px;
+    padding: 30x 55px;
+    gap: 10px;
+
+}
+
+.manig {
+    text-align: center;
+    margin: 300px;
+    font-size: 40px;
+    font-weight: 800;
+}
