@@ -141,24 +141,59 @@
         /* part-3 */
         .section {
             gap: 5px;
-            
+
         }
 
         .class2 {
             text-align: center;
         }
+
         .insta-title {
             font-family: Lato;
             font-size: 40px;
-            font-weight: 800;   
-        }
-        .p{
-            font-family: Lato;
-            font-size: 18px; 
             font-weight: 800;
         }
-        .img4{
-          gap: 5px;
-          right: 240px;
-          left: 240px;
+
+        .p {
+            font-family: Lato;
+            font-size: 18px;
+            font-weight: 800;
+        }
+
+        .img4 {
+            gap: 5px;
+            right: 240px;
+            left: 240px;
+        }
+
+
+
+
+
+        .footer {
+            background-color: rgb(117, 50, 50);
+            text-align: center;
+            width: 1000px;
+            height: 250px;
+            padding: 20px;
+        }
+
+        .head1 {
+            justify-content: center;
+            color: #E55473;
+            font-size: 48px;
+            font-weight: 800;
+            margin-bottom: 0;
+
+        }
+
+        .pp {
+            justify-content: center;
+            width: 625px;
+            text-align: center;
+            
+            font-size: 18px;
+          
+            font-weight: 400;
+            line-height: 30px;
         }
